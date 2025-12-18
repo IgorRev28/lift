@@ -161,7 +161,7 @@ public class okno extends JFrame {
                 statPanel.addLog("Call to floor " + floor);
             });
 
-            if (floor == 1) btn.setBackground(new Color(200, 255, 200));
+            if (floor == 1) btn.setBackground(new Color(20, 255, 200));
             if (floor == Building.ETAGEI) btn.setBackground(new Color(255, 200, 200));
 
             panel.add(btn);
