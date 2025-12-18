@@ -1,7 +1,7 @@
 package zapros;
 
 public enum Direction {
-    UP,    // Вверх
-    DOWN,  // Вниз
-    NONE   // Стоит
+    UP,    
+    DOWN,  
+    NONE   
 }
